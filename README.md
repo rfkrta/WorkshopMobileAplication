@@ -1,9 +1,8 @@
 # WorkshopMobileAplication
-Tugas
-NAMA : RAFI KARTAWIJAYA
-NIM : E41200205
-GOL : A
-Hasil Screenshot Apk :
+# NAMA : RAFI KARTAWIJAYA
+# NIM : E41200205
+# GOL : A
+# Hasil Screenshot Apk :
 ----------------
 
 ![Menu](https://user-images.githubusercontent.com/80251248/137106047-6ff30e0e-6c2c-49b0-b527-497dbfaf8082.jpeg)
