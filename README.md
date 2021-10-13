@@ -3,8 +3,9 @@ Tugas
 NAMA : RAFI KARTAWIJAYA
 NIM : E41200205
 GOL : A
-----------------
 Hasil Screenshot Apk :
+----------------
+
 ![Menu](https://user-images.githubusercontent.com/80251248/137106047-6ff30e0e-6c2c-49b0-b527-497dbfaf8082.jpeg)
 ![MenuFragment](https://user-images.githubusercontent.com/80251248/137106058-f37c36ef-e72e-4bf0-aa10-a0f216b3f570.jpeg)
 ![FirstFragment](https://user-images.githubusercontent.com/80251248/137106069-3f161702-df7d-4929-99a7-d12008faa4ea.jpeg)
